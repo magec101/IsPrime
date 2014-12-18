@@ -1,0 +1,16 @@
+[
+    {
+        "1": {
+            "input": "33",
+            "output": "N",
+            "type": "CLI"
+        }
+    },
+    {
+        "2": {
+            "input": "23",
+            "output": "Y",
+            "type": "STDIN"
+        }
+    }
+]
